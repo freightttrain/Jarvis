@@ -1,10 +1,9 @@
 # Jarvis
 LAST TIME
 
+/**/Poop Poop Poop Poo
+
 Nick's Edit from nick edit branch
-<<<<<<< HEAD
 
-
-=======
 ND EDIT#2
->>>>>>> nick-edit-2
+
