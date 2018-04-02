@@ -2,5 +2,8 @@
 LAST TIME
 
 Nick's Edit from nick edit branch
+<<<<<<< HEAD
 
-Josh is editing too
+=======
+ND EDIT#2
+>>>>>>> nick-edit-2
